@@ -39,5 +39,6 @@ I am Roman Makovyak, Software Engineer, currently working at Babbel.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmakovyak&hide=TeX&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rmakovyak" />
 
 
