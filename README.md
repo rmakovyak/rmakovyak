@@ -1,9 +1,11 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Roman Makovyak, Software Engineer, currently working at Babbel. Reach me out if 
+I am Roman Makovyak, Software Engineer, currently working at Babbel. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-romanmakovyak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-makovyak/)](https://www.linkedin.com/in/roman-makovyak/)
 [![Medium Badge](https://img.shields.io/badge/codementor-%40rmakovyak-blue)](https://www.codementor.io/@rmakovyak)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rmakovyak.rmakovyak)
+
 
 ## ⚡ Technologies
 
@@ -36,8 +38,6 @@ I am Roman Makovyak, Software Engineer, currently working at Babbel. Reach me ou
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rmakovyak&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmakovyak&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rmakovyak.rmakovyak)
 
