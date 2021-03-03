@@ -38,7 +38,7 @@ I am Roman Makovyak, Software Engineer, currently working at Babbel.
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rmakovyak&show_icons=true&count_private=true" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=rmakovyak&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmakovyak&hide=TeX,HTML&layout=compact)
 
 
