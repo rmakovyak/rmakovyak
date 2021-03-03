@@ -2,7 +2,7 @@
 
 I am Roman Makovyak, Software Engineer, currently working at Babbel. Reach me out if 
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/roman-makovyak/)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/roman-makovyak/)(https://www.linkedin.com/in/roman-makovyak/)
 [![Medium Badge](https://img.shields.io/badge/codementor-%40rmakovyak-blue)(https://www.codementor.io/@rmakovyak)
 
 ## ⚡ Technologies
