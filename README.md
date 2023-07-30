@@ -26,7 +26,5 @@ I am Roman Makovyak, Software Engineer, currently working at scoutbee.
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rmakovyak&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmakovyak&hide=TeX,HTML&layout=compact)
 
 
