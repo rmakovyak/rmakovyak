@@ -1,7 +1,5 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Roman Makovyak, Software Engineer, currently working at scoutbee. 
-
 [![Linkedin Badge](https://img.shields.io/badge/-romanmakovyak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-makovyak/)](https://www.linkedin.com/in/roman-makovyak/)
 [![Medium Badge](https://img.shields.io/badge/codementor-%40rmakovyak-blue)](https://www.codementor.io/@rmakovyak)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rmakovyak.rmakovyak)
